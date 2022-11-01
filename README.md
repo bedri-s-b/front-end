@@ -12,6 +12,7 @@ A detailed look at the structure of html and how to create a relationship betwee
 - [x] [website-stucture](website-stucture)
 - [x] [markinng-letter](markinng-letter)
 - [x] [brief-project](brief-project)
+- [x] [images-video-audio](images-video-audio)
 
 - <hr/>
 
