@@ -17,7 +17,7 @@ A detailed look at the structure of html and how to create a relationship betwee
 
 <h2>css</h2>
 
-- [x] [base-css](base-html)
+- [x] [base-css](base-css)
 
 - <hr/>
 
