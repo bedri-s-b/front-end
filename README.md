@@ -15,9 +15,11 @@ A detailed look at the structure of html and how to create a relationship betwee
 - [x] [brief-project](brief-project)
 - [x] [images-video-audio](images-video-audio)
 
+
 <h2>css</h2>
 
 - [x] [base-css](base-css)
+- [x] [brief-css](brief-css)
 
 - <hr/>
 
